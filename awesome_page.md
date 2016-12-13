@@ -6,7 +6,8 @@
 - Yet another item
 
 * This is bold? *
-different change
+No change
+
 ** This is italics? **
 
 ```
